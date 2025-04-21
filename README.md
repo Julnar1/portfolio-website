@@ -1,9 +1,9 @@
 # Personal Portfolio Website
 
-https://github.com/Julnar1/portfolio-website.git
+A modern, responsive portfolio website built with Next.js and Bootstrap, featuring dark/light theme support.
 
 ## Live Demo
-[View Portfolio](your-deployment-url-here)
+[View Portfolio](https://portfolio-website-theta-coral.vercel.app/)
 
 ## Features
 - 🌓 Dark/Light Theme Toggle
@@ -37,15 +37,11 @@ git clone https://github.com/Julnar1/portfolio-website.git
 2. Install dependencies
 ```bash
 npm install
-# or
-yarn install
 ```
 
 3. Run the development server
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
@@ -67,10 +63,7 @@ my-portfolio/
 ```
 
 ## Deployment
-This site is deployed using Firebase Hosting. Visit [Live Demo](your-deployment-url-here) to see it in action.
-
-## Contributing
-Feel free to fork this project and customize it for your own use.
+This site is deployed using Vercel. Visit [Live Demo](https://portfolio-website-theta-coral.vercel.app/) to see it in action.
 
 ## License
 © 2025 Julnar Nabeel. All rights reserved.

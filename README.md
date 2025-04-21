@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A modern, responsive portfolio website built with Next.js and Bootstrap, featuring dark/light theme support.
+https://github.com/Julnar1/portfolio-website.git
 
 ## Live Demo
 [View Portfolio](your-deployment-url-here)
@@ -31,7 +31,7 @@ A modern, responsive portfolio website built with Next.js and Bootstrap, featuri
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Julnar1/portfolio-website.git
 ```
 
 2. Install dependencies
